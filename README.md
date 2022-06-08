@@ -52,12 +52,18 @@ Siamese Network:孪生网络(翻译成连体网络更合适，参考“连体婴
 
 ## 论文中常用的数据集
 
-## 
-
 **Omniglot,**1600多个类，每类只有20个样本，50种字母（希伯来，希腊，拉丁），105*105的图片
 
-![A) A snapshot of some of the classes in the Omniglot dataset. (B)... |  Download Scientific Diagram](https://www.researchgate.net/publication/345010738/figure/fig6/AS:974721902460949@1609403219583/A-A-snapshot-of-some-of-the-classes-in-the-Omniglot-dataset-B-The-sample-N-way.png)
+https://github.com/brendenlake/omniglot
+
+![Visualization of Omniglot dataset.](https://github.com/brendenlake/omniglot/raw/master/omniglot_grid.jpg)
 
 **Mini-ImageNet:**100个类，每类600个样本，84*84图片
 
-![Sample images of widely used few-Shot learning data-sets:miniImagenet... |  Download Scientific Diagram](https://www.researchgate.net/profile/Shruti-Jadon-2/publication/343600770/figure/fig1/AS:923599858855936@1597214774024/Sample-images-of-widely-used-few-Shot-learning-data-setsminiImagenet-and-Omniglot.ppm)
+https://github.com/yaoyao-liu/mini-imagenet-tools
+
+![mini-ImageNet Logo](https://github.com/y2l/mini-imagenet-tools/raw/main/mini-imagenet.png)
+
+## 领域大佬
+
+![img](https://pic1.zhimg.com/80/v2-7c837d07d149155e17fa02ed83a22d32_720w.jpg?source=1940ef5c)
